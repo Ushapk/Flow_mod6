@@ -17,7 +17,7 @@ createMinter() : Creates a minter resource for minting NFTs.
 ## How it works
 #### Deploy the contract
 * Compile the contract using the Cadence Compiler.
-* Deploy the contracts "NFT_1.cdc" and "NFT_2.cdc" to the Flow network node.
+* Deploy the contracts "NFT_1.cdc" and "NFT_interface.cdc" to the Flow network node.
 * Create the collection with "Createcollection.cdc"
 * Mint a new NFT with "DepositNFT.cdc"
 * Use Scripts to display metadata of the NFT's
