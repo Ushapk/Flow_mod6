@@ -1,5 +1,5 @@
 
-# NFT-flow
+# NFT
 This Cadence program implements the Non-Fungible Token standard for creating and managing NFTs. 
 This program allows users to mint new NFTs, deposit and withdraw NFTs, and transfer ownership of NFTs between users.
 
