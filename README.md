@@ -14,6 +14,7 @@ PubMyCollection interface : Defines the public functions deposit(), getIDs(), bo
 createEmptyCollection() : Creates an empty collection.
 createMinter() : Creates a minter resource for minting NFTs.
 
+## How it works
 #### Deploy the contract
 * Compile the contract using the Cadence Compiler.
 * Deploy the contracts "NFT_1.cdc" and "NFT_2.cdc" to the Flow network node.
